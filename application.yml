@@ -1,0 +1,9 @@
+my.unit: "Celsius man"
+
+
+spring:
+   datasource:
+        url: "jdbc:h2:mem:testdb"
+        
+server:
+    port: 8091
